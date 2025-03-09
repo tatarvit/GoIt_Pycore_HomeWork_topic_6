@@ -1,0 +1,1 @@
+from .salary_calculator import get_salary
